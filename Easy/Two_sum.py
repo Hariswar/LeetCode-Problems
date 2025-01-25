@@ -1,3 +1,4 @@
+#1. Two Sum - Easy
 class Solution(object):
   def twoSum(self, nums, target): 
     for k in range(len(nums)):
